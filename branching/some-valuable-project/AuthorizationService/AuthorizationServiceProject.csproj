@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>authorizer.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include=".controls\Application.cs" />
+    <Compile Include=".controls\Program.cs" />
+    <Compile Include=".model\configs\UserModelConfiguration.cs" />
+    <Compile Include=".model\context\AuthorizationDatabaseContext.cs" />
+    <Compile Include=".model\entities\UserModel.cs" />
+    <Compile Include=".net\ServiceController.cs" />
+    <Compile Include=".net\ServiceReciever.cs" />
+    <Compile Include=".style\ConsoleServiceStyle.cs" />
+    <Content Include=".config\appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="authorizer.ico" />
+    <None Include=".net\NetworkingAuxiliaryLibrary.dll" />
+	<Reference Include="NetworkingAuxiliaryLibrary">
+	  <HintPath>.net\NetworkingAuxiliaryLibrary.dll</HintPath>
+	</Reference>
+	<Reference Include="Toolbox">
+	  <HintPath>..\..\..\tools\precompiled-dll\Toolbox.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
+    <PackageReference Include="Spectre.Console" Version="0.45.0" />
+  </ItemGroup>
+</Project>

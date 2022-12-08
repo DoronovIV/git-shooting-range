@@ -1,0 +1,82 @@
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.exe
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.deps.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.runtimeconfig.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\bin\Debug\net6.0-windows\Toolbox.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.csproj.AssemblyReference.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\.view\MainWindow.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\.view\App.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject_MarkupCompile.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject_MarkupCompile.lref
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\.view\App.baml
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\.view\MainWindow.baml
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.g.resources
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.AssemblyInfoInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.AssemblyInfo.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.csproj.CoreCompileInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.csproj.CopyComplete
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\refint\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.genruntimeconfig.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\MainNetworkingProject\obj\Debug\net6.0-windows\ref\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.csproj.AssemblyReference.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\.view\MainWindow.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\.view\App.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject_MarkupCompile.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject_MarkupCompile.lref
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\refint\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.exe
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.deps.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.runtimeconfig.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\bin\Debug\net6.0-windows\Toolbox.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\.view\App.baml
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\.view\MainWindow.baml
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.g.resources
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.AssemblyInfoInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.AssemblyInfo.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.csproj.CoreCompileInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.csproj.CopyComplete
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.genruntimeconfig.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\MainNetworkingProject\obj\Debug\net6.0-windows\ref\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.csproj.AssemblyReference.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\.view\MainWindow.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\.view\App.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject_MarkupCompile.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject_MarkupCompile.lref
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\refint\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.exe
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.deps.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.runtimeconfig.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\MainNetworkingProject.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\Toolbox.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\.view\App.baml
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\.view\MainWindow.baml
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.g.resources
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.AssemblyInfoInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.AssemblyInfo.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.csproj.CoreCompileInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.csproj.CopyComplete
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject.genruntimeconfig.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\ref\MainNetworkingProject.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\MainNetworkingProject\obj\Debug\net6.0-windows\MainNetworkingProject_Content.g.cs

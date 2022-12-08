@@ -1,0 +1,24 @@
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\bin\Release\net6.0\NetworkingAuxiliaryLibrary.deps.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\bin\Release\net6.0\NetworkingAuxiliaryLibrary.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\bin\Release\net6.0\NetworkingAuxiliaryLibrary.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.csproj.AssemblyReference.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.AssemblyInfoInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.AssemblyInfo.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\obj\Release\net6.0\refint\NetworkingAuxiliaryLibrary.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\NetworkingAuxiliaryLibrary\obj\Release\net6.0\ref\NetworkingAuxiliaryLibrary.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\bin\Release\net6.0\NetworkingAuxiliaryLibrary.deps.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\bin\Release\net6.0\NetworkingAuxiliaryLibrary.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\bin\Release\net6.0\NetworkingAuxiliaryLibrary.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.csproj.AssemblyReference.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.AssemblyInfoInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.AssemblyInfo.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\obj\Release\net6.0\refint\NetworkingAuxiliaryLibrary.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\obj\Release\net6.0\NetworkingAuxiliaryLibrary.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\NetworkingAuxiliaryLibrary\obj\Release\net6.0\ref\NetworkingAuxiliaryLibrary.dll

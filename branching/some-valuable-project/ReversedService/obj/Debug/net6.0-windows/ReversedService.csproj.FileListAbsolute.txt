@@ -1,0 +1,147 @@
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\bin\Debug\net6.0-windows\ReversedService.exe
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\bin\Debug\net6.0-windows\ReversedService.deps.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\bin\Debug\net6.0-windows\ReversedService.runtimeconfig.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\bin\Debug\net6.0-windows\ReversedService.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\bin\Debug\net6.0-windows\ReversedService.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\bin\Debug\net6.0-windows\NetworkingAuxiliaryLibrary.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\bin\Debug\net6.0-windows\Toolbox.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService.csproj.AssemblyReference.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\.service-view\ServiceWindow.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\.service-view\App.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService_Content.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService_MarkupCompile.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService_MarkupCompile.lref
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\.service-view\App.baml
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\.service-view\ServiceWindow.baml
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService.g.resources
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService.AssemblyInfoInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService.AssemblyInfo.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService.csproj.CoreCompileInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService.csproj.CopyComplete
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\refint\ReversedService.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ReversedService.genruntimeconfig.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\ReversedService\obj\Debug\net6.0-windows\ref\ReversedService.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\ReversedService\obj\Debug\net6.0-windows\ReversedService.csproj.AssemblyReference.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\ReversedService\obj\Debug\net6.0-windows\.service-view\ServiceWindow.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\ReversedService\obj\Debug\net6.0-windows\.service-view\App.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\ReversedService\obj\Debug\net6.0-windows\ReversedService_Content.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\ReversedService\obj\Debug\net6.0-windows\ReversedService_MarkupCompile.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\ReversedService\obj\Debug\net6.0-windows\ReversedService_MarkupCompile.lref
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\ReversedService\obj\Debug\net6.0-windows\ReversedService.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\ReversedService\obj\Debug\net6.0-windows\refint\ReversedService.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\ReversedService\obj\Debug\net6.0-windows\ReversedService.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ReversedService.exe
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ReversedService.deps.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ReversedService.runtimeconfig.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ReversedService.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ReversedService.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Toolbox.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService.csproj.AssemblyReference.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\.service-view\ServiceWindow.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\.service-view\App.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService_Content.g.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService_MarkupCompile.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService_MarkupCompile.lref
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\.service-view\App.baml
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\.service-view\ServiceWindow.baml
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService.g.resources
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService.AssemblyInfoInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService.AssemblyInfo.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService.csproj.CoreCompileInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService.csproj.CopyComplete
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\refint\ReversedService.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ReversedService.genruntimeconfig.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\ref\ReversedService.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ToggleSwitch.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Simple.Wpf.Terminal.Common.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Simple.Wpf.Terminal.Themes.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Simple.Wpf.Terminal.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\obj\Debug\net6.0-windows\.properties\DefaultTerminalStyle.baml
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\NetworkingAuxiliaryLibrary.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\.config\appsettings.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\HyperSerializer.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\ReversedService\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
