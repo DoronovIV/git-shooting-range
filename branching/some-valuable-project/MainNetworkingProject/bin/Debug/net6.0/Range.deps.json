@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Range/1.0.0": {
+        "dependencies": {
+          "NetworkingAuxiliaryLibrary": "1.0.0.0",
+          "Toolbox": "1.0.0.0"
+        },
+        "runtime": {
+          "Range.dll": {}
+        }
+      },
+      "NetworkingAuxiliaryLibrary/1.0.0.0": {
+        "runtime": {
+          "NetworkingAuxiliaryLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Toolbox/1.0.0.0": {
+        "runtime": {
+          "Toolbox.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Range/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkingAuxiliaryLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Toolbox/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
