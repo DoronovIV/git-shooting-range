@@ -1,2 +1,2 @@
 # Shooting Range
-This one is used to practice gained theory while learning git.
+This one is use to practice gained theory while learning git.
