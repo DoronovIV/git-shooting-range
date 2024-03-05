@@ -1,0 +1,48 @@
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\bin\Debug\net6.0\Range.exe
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\bin\Debug\net6.0\Range.deps.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\bin\Debug\net6.0\Range.runtimeconfig.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\bin\Debug\net6.0\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\bin\Debug\net6.0\Range.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\obj\Debug\net6.0\Range.csproj.AssemblyReference.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\obj\Debug\net6.0\Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\obj\Debug\net6.0\Range.AssemblyInfoInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\obj\Debug\net6.0\Range.AssemblyInfo.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\obj\Debug\net6.0\Range.csproj.CoreCompileInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\obj\Debug\net6.0\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\obj\Debug\net6.0\refint\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\obj\Debug\net6.0\Range.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\obj\Debug\net6.0\Range.genruntimeconfig.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\Range\obj\Debug\net6.0\ref\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\bin\Debug\net6.0\Range.exe
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\bin\Debug\net6.0\Range.deps.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\bin\Debug\net6.0\Range.runtimeconfig.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\bin\Debug\net6.0\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\bin\Debug\net6.0\Range.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\obj\Debug\net6.0\Range.csproj.AssemblyReference.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\obj\Debug\net6.0\Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\obj\Debug\net6.0\Range.AssemblyInfoInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\obj\Debug\net6.0\Range.AssemblyInfo.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\obj\Debug\net6.0\Range.csproj.CoreCompileInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\obj\Debug\net6.0\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\obj\Debug\net6.0\refint\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\obj\Debug\net6.0\Range.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\obj\Debug\net6.0\Range.genruntimeconfig.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\it-step-courses\exams\2. network-exam\new\Range\obj\Debug\net6.0\ref\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\bin\Debug\net6.0\Range.exe
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\bin\Debug\net6.0\Range.deps.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\bin\Debug\net6.0\Range.runtimeconfig.json
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\bin\Debug\net6.0\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\bin\Debug\net6.0\Range.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\bin\Debug\net6.0\Toolbox.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\obj\Debug\net6.0\Range.csproj.AssemblyReference.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\obj\Debug\net6.0\Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\obj\Debug\net6.0\Range.AssemblyInfoInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\obj\Debug\net6.0\Range.AssemblyInfo.cs
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\obj\Debug\net6.0\Range.csproj.CoreCompileInputs.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\obj\Debug\net6.0\Range.csproj.CopyComplete
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\obj\Debug\net6.0\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\obj\Debug\net6.0\refint\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\obj\Debug\net6.0\Range.pdb
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\obj\Debug\net6.0\Range.genruntimeconfig.cache
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\obj\Debug\net6.0\ref\Range.dll
+C:\Users\i.doronov\source\repos\computer-science-learning\code\c#\intellectika\messenger-project\Range\bin\Debug\net6.0\NetworkingAuxiliaryLibrary.dll
