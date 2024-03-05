@@ -1,2 +1,0 @@
-07.12.2022
-To fix: otyobs + authorizer refactoring + "choose contact".\
